@@ -1,0 +1,23 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/world-map-continent-global-support-graphic_53876-124649.jpg?ga=GA1.1.1777738213.1722840921&semt=ais_hybrid");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding: 100px;
+}
+.head{
+    font-size: 70px;
+    color: rgb(244, 238, 238);
+    font-family: caveat;
+}
+.para{
+    color: rgb(18, 20, 20);
+    font-size: 30px;
+    font-family: cursive;
+}
+.but{
+    color: white;
+    background-color: rgb(215, 128, 21);
+    border-radius: 8px;
+    padding: 10px;
+}
